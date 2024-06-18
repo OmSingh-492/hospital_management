@@ -1,0 +1,3 @@
+Patient ID,Patient Name,Patient Age,Problem in Brief,Department of Consultation,Doctor you want to consult,E-Mail Address,Contact Number,Residential Address,Present Status(Pending/Resolved),Prescribed Medicines/Scans/Surgeries
+ec01cf0f-9564-40ff-ba44-4f294a36192c,ABCDE,17,PAIN IN CHEST,Cardiology,ABC,abcde@gmail.com,9122966491,GURGAON,Resolved,Eat MOX Tablets- 1 daily
+1d332b67-32e9-4d08-9a33-880731e8c252,UGH,75,Severe chest pain,Cardiology,GHI,ugh@gmail.com,9122966496,New Delhi

@@ -1,0 +1,5 @@
+Name of the Doctor,Username for Login,Password for Login,Department of Expertise,Qualifications in Brief,Address in Breief,Email ID,Contact Number,Work Experience,Date of Birth,Research and Publications,Languages Spoken
+ABC,ABC@xyz,Red,Cardiology,M.D.,New Delhi,abc@gmail.com,1234567890,14,14081977,Open-Heart Surgery-Latest Methods and Procedures,"English, Hindi"
+DEF,DEF@xyz,Green,ENT,M.D.,Gurgaon,def@gmail.com,2134567890,12,15121974,Ear Operations,"English, Hindi, French"
+GHI,GHI@xyz,Blue,Cardiology,M.D.,New Delhi,ghi@gmail.com,1243567890,15,30061975,Cardiac Arrest Special Cases,"English, Hindi"
+JKL,JKL@xyz,Yellow,ENT,M.D.,Gurgaon,jkl@gmail.com,1234657890,13,20121972,Tymphanic Membrane Ruptures,"English, Hindi, German"
